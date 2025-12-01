@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Bloodshot",
+  "base_artist": "Here At Last",
+  "createdAt": "2025-12-01T04:28:40.922504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloodshot Fanatical",
+      "artist": "Earthsuit",
+      "has_synced": false,
+      "path": "select/01_Bloodshot_Fanatical_Earthsuit.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bloodshot Eyes",
+      "artist": "Pat Benatar",
+      "has_synced": false,
+      "path": "select/02_Bloodshot_Eyes_Pat_Benatar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/03_Bloodshot_Obituary.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLØØDSHØT",
+      "artist": "Machine Head",
+      "has_synced": true,
+      "path": "select/04_BLØØDSHØT_Machine_Head.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Julien Baker",
+      "has_synced": true,
+      "path": "select/05_Bloodshot_Julien_Baker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Julien Baker",
+      "has_synced": true,
+      "path": "select/06_Bloodshot_Julien_Baker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloodshot Eyes",
+      "artist": "Lamb of God",
+      "has_synced": true,
+      "path": "select/07_Bloodshot_Eyes_Lamb_of_God.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bloodshot (Helios Remix)",
+      "artist": "Julien Baker",
+      "has_synced": true,
+      "path": "select/08_Bloodshot_(Helios_Remix)_Julien_Baker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Villain of the Story",
+      "has_synced": true,
+      "path": "select/09_Bloodshot_Villain_of_the_Story.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bloodshot Eyes",
+      "artist": "Throw The Fight",
+      "has_synced": false,
+      "path": "select/10_Bloodshot_Eyes_Throw_The_Fight.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Sam Tinnesz",
+      "has_synced": true,
+      "path": "select/11_Bloodshot_Sam_Tinnesz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/12_Bloodshot_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bloodshot (feat. Wavy Jone$)",
+      "artist": "Ghostemane feat. Wavy Jone$",
+      "has_synced": true,
+      "path": "select/13_Bloodshot_(feat._Wavy_Jone$)_Ghostemane_feat._Wavy_Jone$.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bloodshot (ft. WAVY JONE$)",
+      "artist": "GHOSTEMANE",
+      "has_synced": true,
+      "path": "select/14_Bloodshot_(ft._WAVY_JONE$)_GHOSTEMANE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bloodshot",
+      "artist": "Element Eighty",
+      "has_synced": true,
+      "path": "select/15_Bloodshot_Element_Eighty.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bloodshot Eyes",
+      "artist": "Throw The Fight",
+      "has_synced": true,
+      "path": "select/16_Bloodshot_Eyes_Throw_The_Fight.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bloodshot (feat. Wavy Jone$)",
+      "artist": "Wavy Jone$",
+      "has_synced": true,
+      "path": "select/17_Bloodshot_(feat._Wavy_Jone$)_Wavy_Jone$.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloodshot (feat. Charlotte Haining)",
+      "artist": "Mike Perry",
+      "has_synced": false,
+      "path": "select/pl_01_Bloodshot_(feat._Charlotte_Haining)_Mike_Perry.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Bloodshot (feat. JP THE WAVY)",
+      "artist": "Mike Perry",
+      "has_synced": false,
+      "path": "select/pl_02_Bloodshot_(feat._JP_THE_WAVY)_Mike_Perry.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Bloodshot Eyes",
+      "artist": "Mike Perry",
+      "has_synced": false,
+      "path": "select/pl_03_Bloodshot_Eyes_Mike_Perry.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Bloodshot",
+      "artist": "Mike Perry",
+      "has_synced": false,
+      "path": "select/pl_04_Bloodshot_Mike_Perry.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Bloodshot",
+      "artist": "Mike Perry",
+      "has_synced": false,
+      "path": "select/pl_05_Bloodshot_Mike_Perry.txt"
+    }
+  ]
+}
